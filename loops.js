@@ -30,7 +30,7 @@ function whileLoop(n) {
     return Math.random() >= 0.5
   }
 
-function doWhileLoop(aray){
+function doWhileLoop(array){
   do {
     array.pop();
   } while 
