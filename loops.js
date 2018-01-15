@@ -28,7 +28,10 @@ function whileLoop(n) {
 }
 function doWhileLoop(aray){
   do {
-    array.pop()
+    array.pop();
+  }
+  while {
+    
   }
 }
 }
