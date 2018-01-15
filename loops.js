@@ -26,10 +26,11 @@ function whileLoop(n) {
   }
     return "done"
 }
-function doWhileLoop(aray){
-  function maybeTrue(){
+ function maybeTrue(){
     return Math.random() >= 0.5
   }
+
+function doWhileLoop(aray){
   do {
     array.pop();
   } while 
