@@ -28,7 +28,7 @@ function whileLoop(n) {
 }
 function doWhileLoop(aray){
   do {
-    console.log (array.pop)
+    array.pop()
   }
 }
 }
